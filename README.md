@@ -28,3 +28,5 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
    <b>public</b>.rar
    <b>vendor</b>.rar
    
+## Import .SQL file to your data base ie 
+   <b>laravelapp</b>.sql
